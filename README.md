@@ -1,2 +1,2 @@
 # Pharmaceutical-Analysis
-Creating plots comparing drug performance on mice.
+Comparing drug performance on mice.
